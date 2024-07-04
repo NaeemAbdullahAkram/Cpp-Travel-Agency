@@ -1,0 +1,14 @@
+-------------Happy Trails Tours----------------
+-------------------Receipt---------------------
+_______________________________________________
+Customer ID: 8
+
+Description		     Total
+Hotel cost:		       0.00
+Travel (Cab) cost:		 0.00
+Travel (Flight) cost:		 0.00
+Dinner Reservation:		 0.00
+_______________________________________________
+Total cost:		 Rs.0.00
+_______________________________________________
+Thank you for using our service
